@@ -1,0 +1,2 @@
+# Feaure-selection-and-Classification-Addiction
+In this Project, we use a comprehensive feature selection approach to identify the useful features in people suffering from addiction quickly. The algorithms used in this paper can be summarized as follows. Our goal is to comprehensively review feature selection algorithms to identify useful features and compare the feature selection approach to this data set. This article shows a good solution for other researchers to choose the right algorithm for future research.
